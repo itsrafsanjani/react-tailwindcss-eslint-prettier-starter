@@ -1,4 +1,4 @@
-# React, Prettier, Eslint Starter
+# React, TailwindCSS, Prettier, Eslint Starter
 
 > Starter for faster development. Just clone and use!
 
